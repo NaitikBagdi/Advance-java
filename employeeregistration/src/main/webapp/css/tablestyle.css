@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+.table-style {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.table-style td, .table-style th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+.table-style tr:hover {
+	background-color: #ddd;
+}
+
+.table-style th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #ffaf1a;
+	color: white;
+}
