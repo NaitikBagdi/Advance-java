@@ -29,10 +29,10 @@ public class EmployeeServlet extends HttpServlet {
 	/**
 	 * Redirects GET requests to the employee registration page
   	 * 
-	 * @param request The HttpServletRequest object containing the client's request information.
-	 * @param response The HttpServletResponse object for sending the response back to the client.
-	 * @throws ServletException If the servlet encounters difficulty.
-	 * @throws IOException If an input or output exception occurs while the servlet is handling the GET request.
+	 * @param request The HttpServletRequest object containing the client's request information
+	 * @param response The HttpServletResponse object for sending the response back to the client
+	 * @throws ServletException If the servlet encounters difficulty
+	 * @throws IOException If an input or output exception occurs while the servlet is handling the GET request
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
