@@ -6,8 +6,8 @@ import javax.servlet.http.HttpServletResponse;
 import model.Employee;
 
 /**
- * An interface for handling employee registration.
- * Implementations of this interface are responsible for registering employees.
+ * An interface for handling employee registration
+ * Implementations of this interface are responsible for registering employees
  * 
  * @author Naitik Bagdi
  */
